@@ -7,33 +7,33 @@ Categories:
 -https://www.htmltidy.net - for cleaning html, instant previewing of templates
 
 
-**CSS**
+**CSS**<br>
 https://www.cleancss.com/css-beautify/ - Format your CSS to clean it up and beautify it. 
 
 
-**React**
+**React**<br>
 
 
 
 # Pure Coding
-**BlockChain / Etheruem**
+**BlockChain / Etheruem**<br>
 
 
-**Regular expressions testing**
+**Regular expressions testing**<br>
 https://regex101.com/ - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 
 
-**Python**
+**Python**<br>
 https://pythonanywhere.com/ - Host, run, and code Python in the cloud: PythonAnywhere.
 
 
-**APIs**
+**APIs**<br>
 https://www.hurl.it/ - Make HTTP Requests · About. Destination. Follow redirects: Off On. GET, POST, PUT, PATCH, HEAD, OPTIONS, DELETE. Authentication .
 
 
 
 # Testing:
-**Cross Browser testing**
+**Cross Browser testing**<br>
 -
 
 
@@ -42,3 +42,8 @@ https://www.hurl.it/ - Make HTTP Requests · About. Destination. Follow redirect
 
 # CONTRIBUTING: 
 Mention a category, a tool, short desciption, the programming languages it applies to if specific and indicate PAID if its not free.
+
+
+
+
+
