@@ -11,7 +11,7 @@ Categories:
 https://www.cleancss.com/css-beautify/ - Format your CSS to clean it up and beautify it. 
 
 
-**JS**
+**JS**<br>
 http://jsbeautifier.org/ - Online JavaScript beautifier
 
 
