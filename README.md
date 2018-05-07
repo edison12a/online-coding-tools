@@ -3,7 +3,8 @@ List of tools that are resourceful in programming and can be found online. These
 
 Categories:
 
-# Regular expressions testing
+
+**Regular expressions testing**
 
 # HTML & CSS
 
