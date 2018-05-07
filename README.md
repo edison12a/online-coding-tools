@@ -3,7 +3,7 @@ List of tools that are resourceful in programming and can be found online. These
 
 Categories:
 # Web Programming
-**HTML & CSS**
+**HTML & CSS** <br>
 -https://www.htmltidy.net - for cleaning html, instant previewing of templates
 
 
