@@ -18,7 +18,8 @@ http://jsbeautifier.org/ - Online JavaScript beautifier
 **React**<br>
 
 # Code Editors<br>
--https://www.w3resource.com/
+https://www.w3resource.com/
+https://trinket.io
 
 
 # Pure Coding
